@@ -1,8 +1,5 @@
 #zadanie 4.2
 
-import re
-
-
 word = input('Enter a word:')
 
 def polindrom(word):
